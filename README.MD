@@ -10,7 +10,7 @@ Labview调用SVG NET读取SVG格式图像并转换成 PNG 或 EMF，支持调整
 
 
 
-![Demo.png](C:\Users\huipeng8\Desktop\SVG.NET\Demo.png)
+![Demo.png](Demo.png)
 
 
 
